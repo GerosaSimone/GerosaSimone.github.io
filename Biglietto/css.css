@@ -1,0 +1,12 @@
+.titolo{
+    text-align:center;
+    color:red;
+    font-size: 200%;
+}
+body{
+	text-align: center;
+    background-color: gray;
+}
+.ins{
+    background-color: white;
+}
