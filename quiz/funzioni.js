@@ -70,11 +70,11 @@ function cancella() {
     document.getElementById("risposta5").value = " ";
 }
 function compila() {
-    document.getElementById("nome").value = "ANDREA";
-    document.getElementById("cognome").value = "MAURI";
-    document.getElementById("giorno").value = "1";
-    document.getElementById("mese").selectedIndex = 5;
-    document.getElementById("anno").value = "2020";
+    document.getElementById("nome").value = "SIMONE";
+    document.getElementById("cognome").value = "GEROSA";
+    document.getElementById("giorno").value = "6";
+    document.getElementById("mese").selectedIndex = 8;
+    document.getElementById("anno").value = "2003";
     document.getElementById("risposta1").value = "HTML";
     document.getElementById("risposta2").selectedIndex = 1;
     document.getElementById("risposta3_1").checked = true;
